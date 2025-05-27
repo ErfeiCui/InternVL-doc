@@ -168,7 +168,7 @@ srun -p ${PARTITION} \
     --cpus-per-task=${CPUS_PER_TASK} \
     --kill-on-bad-exit=1 \
     --quotatype=${QUOTA_TYPE} \
-python -u tools/data_sampling_scripts/internvl_lmdeploy_cot.py \
+python -u tools/mm_reasoning_pipeline/internvl_lmdeploy_continue_wo_image.py \
     --checkpoint ${model_path} \  # the model you want to use to generate negative samples
     --prompt-path ${dataset} \  # please refer to the following format example
     --out-dir ${out_dir} \  # the output directory you want to save the resulting data
