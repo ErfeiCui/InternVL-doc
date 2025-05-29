@@ -36,7 +36,7 @@ The architecture of InternVL3 follows the same general framework as its predeces
 
 ### Evaluation on Multimodal Capability
 Multimodal Reasoning and Mathematics ([ALL evaluation](https://internvl.github.io/blog/2025-04-11-InternVL-3.0/))
-![image](./reasoning.png)
+![image](https://huggingface.co/datasets/OpenGVLab/VisualPRM400K-v1.1/resolve/main/visualprm-performance.png)
 
 ## Citation
 
