@@ -46,6 +46,18 @@ Documentation
    tutorials/coco_caption_finetune.md
    tutorials/faqs.md
 
+.. _internvl_3_5:
+.. toctree::
+   :maxdepth: 1
+   :caption: InternVL 3.5
+
+   Introduction <internvl3.5/introduction.md>
+   Quick Start <internvl3.5/quick_start.md>
+   Finetune <internvl3.5/finetune.md>
+   Evaluation <internvl3.5/evaluation.md>
+   Deployment <internvl3.5/deployment.md>
+   Preference Optimization <internvl3.5/preference_optimization.md>
+
 .. _internvl_3_0:
 .. toctree::
    :maxdepth: 1
